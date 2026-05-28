@@ -1,20 +1,35 @@
 # MainnetWallet-Assets
 
-Assets для Mainnet Wallet.
+Assets repository for Mainnet Wallet.
 
-## Структура
+## Structure
 
-```text id="z9yzjz"
+```text
 chains/
 tokens/
 ```
 
-## Пример ссылок
+## Chains
 
-```text id="jlwm4e"
-https://raw.githubusercontent.com/Davitmach/MainnetWallet-Assets/main/tokens/usdt.png
+```text
+chains/bitcoin/logo.png
+chains/ethereum/logo.png
 ```
 
-```text id="jlwm5m"
-https://raw.githubusercontent.com/Davitmach/MainnetWallet-Assets/main/chains/ethereum/logo.png
+## Tokens
+
+```text
+tokens/usdt.png
+tokens/btc.png
+tokens/eth.png
+```
+
+## Example URLs
+
+```text
+https://davitmach.github.io/MainnetWallet-Assets/tokens/usdt.png
+```
+
+```text
+https://davitmach.github.io/MainnetWallet-Assets/chains/ethereum/logo.png
 ```
